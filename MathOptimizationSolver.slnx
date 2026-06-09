@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MathOptimizationSolver.csproj" />
+  <Project Path="../MathOptimizationSolverTestProject/MathOptimizationSolverTestProject.csproj" Id="ce0e6acf-ba46-4295-90d6-4d610abcaa38" />
+</Solution>
