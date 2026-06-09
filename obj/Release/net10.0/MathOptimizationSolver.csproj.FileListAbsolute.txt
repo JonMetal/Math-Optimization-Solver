@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\MathOptimizationSolver\MathOptimizationSolver\bin\Release\net10.0\MathOptimizationSolver.deps.json
+C:\Users\admin\source\repos\MathOptimizationSolver\MathOptimizationSolver\bin\Release\net10.0\MathOptimizationSolver.dll
+C:\Users\admin\source\repos\MathOptimizationSolver\MathOptimizationSolver\bin\Release\net10.0\MathOptimizationSolver.pdb
+C:\Users\admin\source\repos\MathOptimizationSolver\MathOptimizationSolver\obj\Release\net10.0\MathOptimizationSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\MathOptimizationSolver\MathOptimizationSolver\obj\Release\net10.0\MathOptimizationSolver.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MathOptimizationSolver\MathOptimizationSolver\obj\Release\net10.0\MathOptimizationSolver.AssemblyInfo.cs
+C:\Users\admin\source\repos\MathOptimizationSolver\MathOptimizationSolver\obj\Release\net10.0\MathOptimizationSolver.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MathOptimizationSolver\MathOptimizationSolver\obj\Release\net10.0\MathOptimizationSolver.dll
+C:\Users\admin\source\repos\MathOptimizationSolver\MathOptimizationSolver\obj\Release\net10.0\refint\MathOptimizationSolver.dll
+C:\Users\admin\source\repos\MathOptimizationSolver\MathOptimizationSolver\obj\Release\net10.0\MathOptimizationSolver.pdb
+C:\Users\admin\source\repos\MathOptimizationSolver\MathOptimizationSolver\obj\Release\net10.0\ref\MathOptimizationSolver.dll
